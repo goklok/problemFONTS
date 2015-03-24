@@ -1,0 +1,58 @@
+//////////  css  //////////
+#footer .actions {
+	position: absolute
+	left: 1em;
+	top: 0.25em;
+	height: 5em;
+	line-height: 5em;
+	margin-top: 20px;
+	text-align: center;
+}
+
+	#footer .actions li {
+		font-size: 1.25em;
+		margin: 0;
+	}
+
+		#footer .actions li a {
+			padding: 0.5em;
+		}
+
+		#footer .actions li a {
+			padding: 0.5em;
+		}
+
+
+//////////  html  //////////
+<ul class="actions">
+	<li><a href="#">
+		<img width="50" height="50" src="images/sicon/facebook.svg">
+	</a></li>
+
+	<li><a href="#">
+		<img width="50" height="50" src="images/sicon/googleplus.svg">
+	</a></li>
+
+	<li><a href="#">
+		<img width="50" height="50" src="images/sicon/twitter.svg">
+	</a></li>
+
+	<li><a href="#">
+		<img width="50" height="50" src="images/sicon/line.svg">
+	</a></li>
+
+	<li><a href="#">
+		<img width="50" height="50" src="images/sicon/skype.svg">
+	</a></li>
+
+	<li><a href="#">
+		<img width="50" height="50" src="images/sicon/instagram.svg">
+	</a></li>
+</ul>
+
+<p id="add"><a><strong>xxxxxx</strong><br/>
+xxxxxxxxxxxxxxxxxxxxxxxxx<br/>
+xxxxxxxxxxxxxxxx<br/>
+xxxxxxxxxxxxxxxx<br/>
+xxxxxxxxxxxxxxxx<br/><br/></a>
+</p>
